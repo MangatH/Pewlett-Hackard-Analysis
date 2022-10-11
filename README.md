@@ -16,7 +16,7 @@ This analysis will help future-proof Pewlett Hackard by generating a list of all
 ### Results
 * The situation is referred as 'Silver Tsunami' rightly, as a huge percentage of workforce is expected to retire at a given point of time. 
 
-The following code assisted in finding out various retiring titles.
+The following query assisted in finding out various retiring titles.
 
 <img width="567" alt="retirement titles" src="https://user-images.githubusercontent.com/111387025/195025583-d87bb269-7d92-4730-8a17-93f698abc029.png">
 
@@ -26,7 +26,8 @@ The following code assisted in finding out various retiring titles.
 
 * The following image gives a glimpse on the count of workforce which is expected to retire from different titles.
 
-<img width="396" alt="Screen Shot 2022-10-11 at 11 01 01 AM" src="https://user-images.githubusercontent.com/111387025/195005418-754398cc-f679-4809-977f-ab3169dd2140.png">
+<img width="301" alt="Screen Shot 2022-10-11 at 11 01 01 AM" src="https://user-images.githubusercontent.com/111387025/195049297-6c11d623-54c7-4e0e-ab1b-405c89e387fe.png">
+
 
 * The analysis further indicated that the employees eligible for mentorship are quite few in number in contrast to the number of employees retiring. 
 
@@ -42,9 +43,10 @@ The following code assisted in finding out various retiring titles.
 
 72,458 roles are in urgent need to be filled out as soon as the workforce starts retiring at any given time.
 
-<img width="396" alt="Screen Shot 2022-10-11 at 11 01 01 AM" src="https://user-images.githubusercontent.com/111387025/195038274-52b65150-059c-4aa4-9fcb-c88eab59cc55.png">
+<img width="301" alt="Screen Shot 2022-10-11 at 11 01 01 AM" src="https://user-images.githubusercontent.com/111387025/195049014-55bfd156-79b3-4264-b446-4b6e3f013916.png">
 
 * 2) Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees?
+
 No. The analysis indicates that there are not sufficient employees to mentor the next generation of Pewlett Hackard employees, as the number of employees eligible for mentorship are just 1549.
 
 <img width="1031" alt="mentorship eligibility" src="https://user-images.githubusercontent.com/111387025/195039059-7bab9075-aaa4-404c-8a2b-1fd77b27eafb.png">
